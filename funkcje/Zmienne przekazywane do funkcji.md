@@ -16,3 +16,4 @@ export default App
 ```
 
 [[Dynamiczne przekazywanie (input)]]
+[[Zmiana zmiennej za pomocą kliknięcia przycisku]]
