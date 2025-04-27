@@ -15,9 +15,9 @@ npm create vite@latest
 #### Następnie 3 kolejne komendy:
 
 ```
-  cd Trening2
-  npm install
-  npm run dev
+cd Trening2
+npm install
+npm run dev
 ```
 
 [[Tworzenie Komponentu]]

@@ -11,3 +11,4 @@ export default Welcome
 
 [[Przekazanie Funkcji do App.jsx]]
 [[Zmienne przekazywane do funkcji]]
+[[Funkcja Pomocnicza]]
